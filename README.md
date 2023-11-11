@@ -1,8 +1,6 @@
 # To-Do List Manager
 
-- Welcome to My To-Do List Manager – a Python project that simplifies task management through an intuitive
-    graphical user interface (GUI). This application provides a seamless experience for adding,viewing, updating, 
-    and removing tasks, making it easy to stay organized and on top of your to-do list.
+Welcome to My To-Do List Manager – a Python project that simplifies task management through an intuitivegraphical user interface (GUI). This application provides a seamless experience for adding,viewing, updating,and removing tasks, making it easy to stay organized and on top of your to-do list.
 
 ## Features
 
@@ -16,34 +14,34 @@
 
 ## Adding a Task
 
-- Open the application.
-- Enter the task description.
-- Click the "Add Task" button.
-- Enter the deadline when prompted and confirm.
+Open the application.
+Enter the task description.
+Click the "Add Task" button.
+Enter the deadline when prompted and confirm.
 
 ## Removing a Task
 
-- Select a task from the list.
-- Click the "Remove Task" button.
+Select a task from the list.
+Click the "Remove Task" button.
 
 ## Updating a Task
 
-- Select a task from the list.
-- Click the "Update Task" button.
-- Update the task details as needed.
-- Click the "Confirm" button.
+Select a task from the list.
+Click the "Update Task" button.
+Update the task details as needed.
+Click the "Confirm" button.
 
 ## Marking a Task as Complete
 
-- Select a task from the list.
-- Click the "Mark as Complete" button.
+Select a task from the list.
+Click the "Mark as Complete" button.
 
 ## Viewing Task Details
 
-- The task list displays tasks with color-coded indications:
-        🟢 Green: Tasks due in the future.
-        🟡 Yellow: Tasks due today.
-        🚫 Red: Tasks past the deadline.
+The task list displays tasks with color-coded indications:
+    🟢 Green: Tasks due in the future.
+    🟡 Yellow: Tasks due today.
+    🚫 Red: Tasks past the deadline.
 
 # Getting Started
 
@@ -99,4 +97,4 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 ## Known Issues
 
-- The update functionality may not work as expected. This is a known issue, and improvements are being worked on.# My-Giffare
+The update functionality may not work as expected. This is a known issue, and improvements are being worked on.# My-Giffare
