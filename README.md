@@ -55,7 +55,7 @@ The task list displays tasks with color-coded indications:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/todo-list-manager.git
+    git clone https://github.com/VKwamboka/My-To-Do-List.git
     cd todo-list-manager
     ```
 
