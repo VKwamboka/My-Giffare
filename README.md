@@ -97,4 +97,4 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 ## Known Issues
 
-The update functionality may not work as expected. This is a known issue, and improvements are being worked on.# My-Giffare
+The update functionality may not work as expected. This is a known issue, and improvements are being worked on.
