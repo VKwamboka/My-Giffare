@@ -1,6 +1,6 @@
 # To-Do List Manager
 
-Welcome to My To-Do List Manager – a Python project that simplifies task management through an intuitivegraphical user interface (GUI). This application provides a seamless experience for adding,viewing, updating,and removing tasks, making it easy to stay organized and on top of your to-do list.
+Welcome to My To-Do List Manager – a Python project that simplifies task management through an intuitive graphical user interface (GUI). This application provides a seamless experience for adding,viewing, updating,and removing tasks, making it easy to stay organized and on top of your to-do list.
 
 ## Features
 
@@ -39,9 +39,9 @@ Click the "Mark as Complete" button.
 ## Viewing Task Details
 
 The task list displays tasks with color-coded indications:
-    🟢 Green: Tasks due in the future.
-    🟡 Yellow: Tasks due today.
-    🚫 Red: Tasks past the deadline.
+    - 🟢 Green: Tasks due in the future.
+    - 🟡 Yellow: Tasks due today.
+    - 🚫 Red: Tasks past the deadline.
 
 # Getting Started
 
